@@ -24,7 +24,7 @@ In order to do that, move to the desired location where package.json file is loc
 - [Code of Conduct](#code-of-conduct)
 - [Translation Guide](#translation-guide)
 
-## Code of Conduct
+### Code of Conduct
 If you want to contribute, you need to know a few things.
 
 [Code of conduct](../CODE_OF_CONDUCT.md)
